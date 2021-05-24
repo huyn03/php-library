@@ -1,0 +1,11 @@
+{
+    "name": "drhuy/library",
+    "type": "library",
+    "authors": [
+        {
+            "name": "drhuy",
+            "email": "huyn03@gmail.com"
+        }
+    ],
+    "require": {}
+}
