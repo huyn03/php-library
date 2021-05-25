@@ -1,11 +1,13 @@
 {
     "name": "drhuy/library",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "drhuy",
             "email": "huyn03@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev"
 }
