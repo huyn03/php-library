@@ -3,11 +3,9 @@
 /**
  * 
  */
-class Heplers
+class Helpers
 {
-	
-	function __construct(argument)
-	{
-		echo "Heplers";
+	function __construct(){
+		echo "string";
 	}
 }
