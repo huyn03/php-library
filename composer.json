@@ -9,7 +9,7 @@
         }
     ],
     "autoload": {
-        "psr-4": {"Drhuy\\Library\\": }}
+        "psr-4": {"Drhuy\\Library\\": ""}
     },
     "require": {}
 }
